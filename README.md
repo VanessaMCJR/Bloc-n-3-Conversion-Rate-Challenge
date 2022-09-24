@@ -21,4 +21,4 @@ data_test.csv contient de "nouveaux" exemples qui n'ont pas été utilisés pour
 
 Et on retrouve par ailleurs un fichier contenant les prédictions finales:
 
-conversion_data_test_predictions.csv c'est le fichier data_test.csv avec la prédiction représentée par la ##colonne :"converted_by_logistic_regression" ## et réalisée par un modèle de machine learning.
+conversion_data_test_predictions.csv c'est le fichier data_test.csv avec la prédiction représentée par la colonne : converted_by_logistic_regression et réalisée par un modèle de machine learning.
