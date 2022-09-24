@@ -1,5 +1,9 @@
 # Bloc-n-3-Conversion-Rate-Challenge
 
+# Lien de la vidéo de présentation du projet: 
+
+https://share.vidyard.com/watch/wCARUCE6FMC1vZap4T6U3G?
+
 ## Description de l'entreprise 📇
 
 www.datascienceweekly.org est une célèbre newsletter organisée par des data scientists indépendants. Tout le monde peut enregistrer son adresse e-mail sur ce site pour recevoir chaque semaine des actualités sur la science des données et ses applications!
