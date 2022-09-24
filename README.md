@@ -18,3 +18,5 @@ Dans les défis d'apprentissage automatique, le jeu de données est toujours sé
 data_train.csv contient des données étiquetées , ce qui signifie qu'il y a à la fois X (variables explicatives) et Y (la cible à prédire). Vous utiliserez ce fichier pour entraîner votre modèle comme d'habitude : faire le split train/test, pré-traitements, évaluer les performances, essayer différents modèles, affiner les hyperparamètres etc...
 
 data_test.csv contient de "nouveaux" exemples qui n'ont pas été utilisés pour former le modèle, dans le même format que dans data_train.csv mais sans étiquette , ce qui signifie que la cible Y a été supprimée du fichier. Une fois que vous avez formé un modèle, vous utiliserez data_test.csv pour faire des prédictions que vous enverrez à l'équipe organisatrice. Ils pourront alors évaluer les performances de votre modèle de manière indépendante, en prévenant la triche 🤸
+
+conversion_data_test_predictions.csv c'est le fichier data_test.csv avec la prédiction (représentée par la colonne :"converted_by_logistic_regression") réalisée par un modèle de machine learning.
